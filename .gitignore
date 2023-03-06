@@ -5,3 +5,7 @@
 data.pickle
 .idea/163B Repository Group 4.iml
 .idea/misc.xml
+!HTML/Crimes per Precinct.html
+!HTML/Tree to Crime corellation.html
+!HTML/Victim visualization.html
+!HTML/visualise.html
