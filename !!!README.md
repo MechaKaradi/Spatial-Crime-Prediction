@@ -1,5 +1,13 @@
 # 163B Group-4: Repository
 https://github.com/MechaKaradi/163B-Repository-Group-4.git
+
+Authors: 
+Lala Sayyida Millati Nadhira		5844266 
+Kaninik Baradi 			5216664 
+Rezzy Yolanda Wulandhari		4779487 
+Kelvin Engee				4664043
+Philippe Almeida Mirault		5898803
+
 # Introduction
 The relationship between green spaces and crime rates is debated, with some studies suggesting that greenery can have a calming effect and attract foot traffic to deter criminal activity (Kuo & Sullivan, 2001). However, the relationship is not always clear-cut and may be influenced by various factors. In certain contexts, green spaces may even increase crime rates by providing cover for criminal activity or attracting individuals more likely to engage in crime. 
 Understanding the factors that may have contributed to the crime would be helpful in predicting the likelihood of future crimes occurring. 
