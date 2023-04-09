@@ -21,8 +21,13 @@ Relative to the root folder of the repository, the following files are needed:
 - `..\\data\\2015 Street Tree Census - Tree Data.geojson` : [source](https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/pi5s-9p35)
 - `..\\data\\Police Precincts.geojson` : [source](https://data.cityofnewyork.us/Public-Safety/Police-Precincts/78dh-3ptz)
 
-# Notebooks Structure
-To run the analysis, the `Data Clean Final.ipynb` notebook must be run first to generate a `data.pickle` file with cleaned data. This file serves as input to the other notebooks.
+# Notebooks Order
+The Notebooks are numbered in the order they should be run.
+The function of each notebook is described below.
+`01_Data Clean Final.ipynb` : Cleans the Crimes data from the `NYPD_Complaint_Data_Historic.csv` and generates a pickle file with the cleaned data. This file is used as input for the other notebooks.
+
+
+
 
 The `count_trees.ipynb` notebook file generates reduced analytics for the number of trees in each precinct. 
 
