@@ -24,8 +24,15 @@ Relative to the root folder of the repository, the following files are needed:
 # Notebooks Order
 The Notebooks are numbered in the order they should be run.
 The function of each notebook is described below.
+
 `01_Data Clean Final.ipynb` : Cleans the Crimes data from the `NYPD_Complaint_Data_Historic.csv` and generates a pickle file with the cleaned data. This file is used as input for the other notebooks.
 
+`11_CrimeClusters.ipynb` : Prepares the data for the machine learning models. It generates a grid, counts the crimes near the grid points, and generates a pickle file with the data. This file is used as input for the other notebooks.
+`12_YearsSeperated.ipynb` : Performs the same pre-processing, but seperates data from 2021 for validation. 
+
+`21_RegressionOnTrees` : Performs the initial regression models using the location, time, and trees information,
+
+`22_RegressionValidation` : Performs the same regression, but also validates it using data from 2021
 
 
 
